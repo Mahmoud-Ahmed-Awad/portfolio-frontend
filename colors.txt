@@ -1,0 +1,9 @@
+#1c1c1c (Charcoal Black)
+
+#8a0000 (Crimson Red)
+
+#003366 (Midnight Blue)
+
+#bfbfbf (Silver Gray)
+
+#ff4400 (Vibrant Orange)

@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+* {
+  scroll-behavior: smooth;
+}
+
+a.active {
+  /* @apply text-blue-600; */
+  color: #2563eb; /* Tailwind's text-blue-600 */
+}
