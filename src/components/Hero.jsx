@@ -64,7 +64,7 @@ const Hero = () => {
           <img
             src={Profile}
             alt="Profile"
-            className="w-full h-auto shadow-lg rotate-0 relative z-50"
+            className="w-full h-auto shadow-lg rotate-0 relative z-40"
           />
         </div>
       </div>
